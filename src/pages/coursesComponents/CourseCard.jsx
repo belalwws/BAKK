@@ -59,7 +59,7 @@ const CourseCard = () => {
                           <img
                             height={25}
                             width={25}
-                            src="../../public/images/timer.png"
+                            src="../public/images/timer.png"
                             alt=""
                           />
                         </div>
